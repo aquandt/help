@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Workflows on My New Hugo Site</title>
+    <link>http://localhost:1313/workflows/</link>
+    <description>Recent content in Workflows on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Aug 2016 19:44:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/workflows/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Add Workflow</title>
+      <link>http://localhost:1313/workflows/add_workflow/add_workflow/</link>
+      <pubDate>Tue, 09 Aug 2016 19:44:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/workflows/add_workflow/add_workflow/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+    &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;http://localhost:1313/style.css&#34;&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;h3&gt;
+    Table of content
+&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#id-overview&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-enter_workflow_info&#34;&gt;Step 1: Enter Workflow info&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-add_statuses&#34;&gt;Step 2: Add Statuses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-form_designer&#34;&gt;Step 3: Form Designer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-how_to_questions&#34;&gt;How to questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-related_articles&#34;&gt;Related articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-overview&#39;/&gt;
+&lt;h2&gt;
+    Overview
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;Workflow represents a set of rules and statuses which specify the life cycle of a case. A typical workflow defines all possible actions and transitions through statuses for all cases.&lt;/p&gt;
+
+&lt;p&gt;To create a new Workflow go to &lt;strong&gt;Setup &amp;gt;&amp;gt; Workflows &amp;gt;&amp;gt; Add Workflow&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;id-enter_workflow_info&#34;/&gt;
+&lt;h4&gt;
+    Step 1: Enter Workflow info
+&lt;/h4&gt;&lt;/p&gt;
+
+&lt;p&gt;At this step you will see three fields that should be filled in order to create a new Workflow. That fields are: Name, Description and Unique Key.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Unique Key identifies a Workflow and it can’t be changed. It can’t contain spaces and it must be in ASCII encoding, no UTF8 characters are allowed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;div id=&#34;id-add_statuses&#34;/&gt;
+&lt;h4&gt;
+    Step 2: Add Statuses
+&lt;/h4&gt;&lt;/p&gt;
+
+&lt;p&gt;At this step you have to select all status that you want to have in your new Workflow through which you case will go during their life cycles. You can choose &lt;strong&gt;Available Statuses&lt;/strong&gt; or &lt;strong&gt;Add new Status&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Statuses are dragged from the left to the right part of the page via &lt;em&gt;drag &amp;amp; drop&lt;/em&gt; mechanism.&lt;/li&gt;
+&lt;li&gt;At least one status must be selected. You can add and remove statuses in any time once a workflow is created.&lt;/li&gt;
+&lt;li&gt;If you want to search for a status try typing in &lt;strong&gt;Search box&lt;/strong&gt;, or click on search options. Click &lt;code&gt;here&lt;/code&gt; to learn more.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;div id=&#34;id-form_designer&#34;/&gt;
+&lt;h4&gt;
+    Step 3: Form Designer
+&lt;/h4&gt;&lt;/p&gt;
+
+&lt;p&gt;At this step you can design layout of the fields which user will see when creating a new case of this Workflow type, by adding Custom Fields to this page via &lt;em&gt;drag &amp;amp; drop&lt;/em&gt;. You can choose Custom Field(s) from existing Custom Fields or you can Add New if you need it for this Workflow.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-how_to_questions&#39;/&gt;
+&lt;h2&gt;
+    How to questions
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-related_articles&#39;/&gt;
+&lt;h2&gt;
+    Related articles
+&lt;/h2&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Statuses</title>
+      <link>http://localhost:1313/workflows/statuses/statuses/</link>
+      <pubDate>Tue, 09 Aug 2016 19:44:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/workflows/statuses/statuses/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+    &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;http://localhost:1313/style.css&#34;&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;h3&gt;
+    Table of content
+&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#id-overview&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-create_a_new_status&#34;&gt;Create a New Status&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-list_of_existing_statuses&#34;&gt;List of existing Statuses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-how_to_questions&#34;&gt;How to questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-related_articles&#34;&gt;Related articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-overview&#39;/&gt;
+&lt;h2&gt;
+    Overview
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A status is the state or position a case is in at a certain point in time.&lt;/li&gt;
+&lt;li&gt;Statuses represent the progression of a case through its lifecycle from open to closed. A case can only be in one status at a given time.&lt;/li&gt;
+&lt;li&gt;Statuses can be associated to any number of Workflows. A workflow can have an unlimited amount of statuses.&lt;/li&gt;
+&lt;li&gt;Only administrative users can add and manage statuses, but registered users can view the statuses of a case and see what status a case is on by going to the case page.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To access Statuses Page go to &lt;strong&gt;Setup &amp;gt;&amp;gt; Workflows &amp;gt;&amp;gt; Statuses&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-create_a_new_status&#39;/&gt;
+&lt;h2&gt;
+    Create a New Status
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Click &lt;strong&gt;New Status&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fill out&lt;/strong&gt; the form &lt;strong&gt;fields&lt;/strong&gt; – Name and System ID. And choose one of the following actions to your new status, and choose in which workflows your status will be included.
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;System ID&lt;/strong&gt; will automatically populate as you name the department.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Click &lt;strong&gt;Add&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Your status will appear in the table of listed statuses.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-list_of_existing_statuses&#39;/&gt;
+&lt;h2&gt;
+    List of existing Statuses
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;Here you can see list of already created statuses. Information about statuses which you can see is Name of the status, System ID, and you can execute some actions under the certain status.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;To edit status click on Actions button near desired status, and then on &lt;strong&gt;Edit&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;If you want to see when and by whom the status is created click on Actions button near desired status, and then on &lt;strong&gt;Details&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;If you want to translate name of the status, click on Actions button near desired status, and then on &lt;strong&gt;Translate&lt;/strong&gt;. Choose dictionary and write translation.&lt;/li&gt;
+&lt;li&gt;If you want to export data for backup purposes or to import to another tenant, click on Actions button and then on &lt;strong&gt;Download Data&lt;/strong&gt;. It will download an .wfb file with your object exported in Jason format. You can import it via Migration Manager to another tenant.&lt;/li&gt;
+&lt;li&gt;To search for a status try typing in &lt;strong&gt;Search box&lt;/strong&gt;, or click on search options. Click &lt;code&gt;here&lt;/code&gt; to learn more.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-how_to_questions&#39;/&gt;
+&lt;h2&gt;
+    How to questions
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-related_articles&#39;/&gt;
+&lt;h2&gt;
+    Related articles
+&lt;/h2&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workflows</title>
+      <link>http://localhost:1313/workflows/workflows/workflows/</link>
+      <pubDate>Tue, 09 Aug 2016 19:44:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/workflows/workflows/workflows/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+    &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;http://localhost:1313/style.css&#34;&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;h3&gt;
+    Table of content
+&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#id-overview&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-fundamentals_of_workflow&#34;&gt;Fundamentals of Workflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-create_a_new_workflow&#34;&gt;Create a New Workflows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-list_of_existing_workflows&#34;&gt;List of existing Workflows&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-the_default_workflow&#34;&gt;The Default Workflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-how_to_questions&#34;&gt;How to questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-related_articles&#34;&gt;Related articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-overview&#39;/&gt;
+&lt;h2&gt;
+    Overview
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;WorkFlow is a web-based application designed for managing business processes. It includes everything you need to organize, execute, and analyze business processes to connect people, data, and daily activities.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Workflow allows users to automate various processes through the use of projects, workflows, and cases.&lt;/li&gt;
+&lt;li&gt;There are three types of roles within the WorkFlow application: administrator, user and guest:
+
+&lt;ul&gt;
+&lt;li&gt;Administrators have the ability to create users, set permissions, and create customizations to the WorkFlow application.&lt;/li&gt;
+&lt;li&gt;Users are able to create cases and perform actions on a case to change its status from opened to closed.&lt;/li&gt;
+&lt;li&gt;A Guest is someone who does not have a username or password to log into Workflow but they can create and view their own cases.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To access Workflow Page go to &lt;strong&gt;Setup &amp;gt;&amp;gt; Workflows &amp;gt;&amp;gt; Workflows&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#34;id-fundamentals_of_workflow&#34;/&gt;
+&lt;h2&gt;
+    Fundamentals of Workflow
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;Workflows allows users to automate various processes through the use of projects, workflows, and cases.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Project&lt;/strong&gt; is a mandatory way of grouping cases. Think of it as grouping cases into different categories. For example, if you were to use workflow as a method of tracking the tasks associated with onboarding new employees, which is a common use case for Workflow, a project might be Employee Management.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Workflow&lt;/strong&gt; represents a specific business process and is comprised of a series of steps which the user needs to take in order to complete the represented business process. These steps are called statuses, and the user performs actions to move from one status to the next.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Case&lt;/strong&gt; travels through each status of a workflow.  For example, in our employee onboarding workflow, a user in the Human Resource department could log into Workflow and see a case for a new employee. That user could then perform certain actions to move the case along from status to status.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-create_a_new_workflow&#39;/&gt;
+&lt;h2&gt;
+    Create a New Workflow
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;If you want to create a new Workflow, click on the ‘New Workflow’ link and a wizard for creating a new Worflow will open. See &lt;code&gt;Add New Workflow&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-list_of_existing_workflows&#39;/&gt;
+&lt;h2&gt;
+    List of existing Workflows
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;You can see list of already created workflows in the Workflows tab. Information about workflows which you can see is Name of the workflows, Description, Unique Key, and you can execute some actions under the certain workflow.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;To edit workflow click on Actions button near desired workflow, and then on &lt;strong&gt;Edit&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;If you want to see when and by whom the workflow is created click on Actions button near desired workflow, and then on &lt;strong&gt;Details&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;If you want to modify workflow, click on Actions button near desired workflow, and then on &lt;strong&gt;Design View&lt;/strong&gt;. It opens a workflow designer, and this option is available only in Professional Edition of Workflow.&lt;/li&gt;
+&lt;li&gt;If you want to access the table view of the workflow, click on Actions button near desired workflow, and then on &lt;strong&gt;Table View&lt;/strong&gt;. There is short explanation of the page, and two tabs. First tab opens by default when entering into Table view of the matrix and it displays all actions of that workflow in a transition matrix. Second tab is used for settings for defaults actions in this workflow.&lt;/li&gt;
+&lt;li&gt;If you want to access the list view of the workflow, click on Actions button near desired workflow, and then on &lt;strong&gt;List view&lt;/strong&gt;. In the list view of the workflow there are few sections on the left side of the page and the main part of the page shows table with listed actions.&lt;/li&gt;
+&lt;li&gt;To change statuses for workflow, click on Actions button near desired workflow, and then on &lt;strong&gt;Statuses&lt;/strong&gt;. A popup window in which you can add or remove statuses from this workflow will open.&lt;/li&gt;
+&lt;li&gt;If you want to translate name of the workflow, click on Actions button near desired workflow, and then on &lt;strong&gt;Translate&lt;/strong&gt;. Choose dictionary and write translation.&lt;/li&gt;
+&lt;li&gt;If you want to export data for backup purposes or to import to another tenant, click on Actions button and then on &lt;strong&gt;Download Data&lt;/strong&gt;. It will download an .wfb file with your object exported in Jason format. You can import it via Migration Manager to another tenant.&lt;/li&gt;
+&lt;li&gt;To delete workflow, click on Actions button an then on &lt;strong&gt;Delete&lt;/strong&gt;. The Delete action can’t be executed when:
+
+&lt;ul&gt;
+&lt;li&gt;There is at least one case that belongs to choosen workflow.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;If you want to delete all cases and workflows that you&amp;rsquo;ve created, click on Actions button an then on &lt;strong&gt;Delete Workflow and all cases&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;To search for a workflow try typing in &lt;strong&gt;Search box&lt;/strong&gt;, or click on search options. Click &lt;code&gt;here&lt;/code&gt; to learn more.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-the_default_workflow&#39;/&gt;
+&lt;h2&gt;
+    The Default Workflow
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;In the &lt;em&gt;Default Workflow tab&lt;/em&gt; you can choose one of your created workflows to become the default workflow for users.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-how_to_questions&#39;/&gt;
+&lt;h2&gt;
+    How to questions
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-related_articles&#39;/&gt;
+&lt;h2&gt;
+    Related articles
+&lt;/h2&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

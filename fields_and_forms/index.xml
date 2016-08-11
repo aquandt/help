@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fields_and_forms on My New Hugo Site</title>
+    <link>http://localhost:1313/fields_and_forms/</link>
+    <description>Recent content in Fields_and_forms on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Aug 2016 19:44:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/fields_and_forms/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Custom Fields</title>
+      <link>http://localhost:1313/fields_and_forms/custom_fields/custom_fields/</link>
+      <pubDate>Tue, 09 Aug 2016 19:44:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/fields_and_forms/custom_fields/custom_fields/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+    &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;http://localhost:1313/style.css&#34;&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;!-- &lt;h3&gt;
+    Table of content
+&lt;/h3&gt;
+
+- [Overview](#id-overview)
+- [Create a New Project](#id-create_a_new_project)
+- [List of existing Projects](#id-list_of_existing_projects)
+- [The Project Roles](#id-the_project_roles)
+- [List of existing Project Roles](#id-list_of_existing_project_roles)
+- [Project Custom Fields](#id-project_custom_fields)
+- [The Default Project](#id-the_default_project)
+- [How to questions](#id-how_to_questions)
+- [Related articles](#id-related_articles)
+ --&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-overview&#39;/&gt;
+&lt;h2&gt;
+    Overview
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;Custom field is a field defined by administrator. Custom field is used to store any additional information.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Custom field can be associated with one, or more workflows.&lt;/li&gt;
+&lt;li&gt;Each workflow may have different custom fields. It is possible to define in which actions will a custom field be available.&lt;/li&gt;
+&lt;li&gt;Custom fields can be added to any action on the pages for managing workflow. Later, using that action, users can view, delete or modify custom fields.&lt;/li&gt;
+&lt;li&gt;There are default custom fields, called &lt;em&gt;standard fields&lt;/em&gt; which are embedded in all workflows by default.&lt;/li&gt;
+&lt;li&gt;Custom field can be added to &lt;code&gt;Contacts, Accounts, Users or Projects.&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Custom fields added to contacts, accounts or projects are visible on the user side, on pages for viewing them. In administration, it is possible to set who will be able to view and edit those custom fields.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

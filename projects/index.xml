@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on My New Hugo Site</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Aug 2016 19:44:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/projects/</link>
+      <pubDate>Tue, 09 Aug 2016 19:44:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/projects/projects/</guid>
+      <description>&lt;p&gt;&lt;head&gt;
+    &lt;link rel=&#34;stylesheet&#34; type=&#34;text/css&#34; href=&#34;http://localhost:1313/style.css&#34;&gt;
+&lt;/head&gt;&lt;/p&gt;
+
+&lt;h3&gt;
+    Table of content
+&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#id-overview&#34;&gt;Overview&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-create_a_new_project&#34;&gt;Create a New Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-list_of_existing_projects&#34;&gt;List of existing Projects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-the_project_roles&#34;&gt;The Project Roles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-list_of_existing_project_roles&#34;&gt;List of existing Project Roles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-project_custom_fields&#34;&gt;Project Custom Fields&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-the_default_project&#34;&gt;The Default Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-how_to_questions&#34;&gt;How to questions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#id-related_articles&#34;&gt;Related articles&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-overview&#39;/&gt;
+&lt;h2&gt;
+    Overview
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;If you want to group cases into different categoris you will use project. You can have cases from different workflow in the same project.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In Home Page you can see which cases belong to certain project. In searching for project you can add next criterias:
+
+&lt;ul&gt;
+&lt;li&gt;To see just projects which cases are in choosen status.&lt;/li&gt;
+&lt;li&gt;To see just projects from same Workflow.&lt;/li&gt;
+&lt;li&gt;You can choose which cases you want to see (All Cases, Unassigned Cases, All Cases that you&amp;rsquo;ve created, etc.).&lt;/li&gt;
+&lt;li&gt;You have checkbox and if you checked it you can include closed cases in searching for a project.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;If you have a case which doesn&amp;rsquo;t belong to any project, you will use Corresponding project (which you select when creating a new company), so it will be placed in corresponding project of case creator&amp;rsquo;s company.  If corresponding project is not populated, tenant’s default project will be used.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;To access Projects Page go to &lt;strong&gt;Setup &amp;gt;&amp;gt; Projects&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-create_a_new_project&#39;/&gt;
+&lt;h2&gt;
+    Create a New Project
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Click &lt;strong&gt;New Project&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fill out&lt;/strong&gt; the form &lt;strong&gt;fields&lt;/strong&gt; – Name, Unique Key, Description, Project Roles, Project Leader, System Roles and Permission Groups
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Project Roles&lt;/strong&gt; - you can choose a specific user (by autocomplete) to whom project role is going to be assigned. By default, when a case is created it is assigned to a default role called &amp;lsquo;Project Leader&amp;rsquo;.&lt;/li&gt;
+&lt;li&gt;With &lt;strong&gt;System Roles&lt;/strong&gt; and &lt;strong&gt;Permission Groups&lt;/strong&gt; you can set which users will have access to this project.&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Click &lt;strong&gt;Add&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Your project will appear in the table of listed project.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-list_of_existing_projects&#39;/&gt;
+&lt;h2&gt;
+    List of existing Projects
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;You can see list of already created projects in the Projects tab. Information about projects which you can see is Name of the project, Shortcut, Project Roles, Permission Groups, and you can execute some actions under the certain project.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;To edit project click on Actions button near desired project, and then on &lt;strong&gt;Edit&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;If you want to see when and by whom the project is created click on Actions button near desired project, and then on &lt;strong&gt;Details&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;To see users which have access to project, click on Actions button near desired project, and then on &lt;strong&gt;Viewable By&lt;/strong&gt;. A popup will be displayed with list of users.&lt;/li&gt;
+&lt;li&gt;If you want to translate name of the project, click on Actions button near desired project, and then on &lt;strong&gt;Translate&lt;/strong&gt;. Choose dictionary and write translation.&lt;/li&gt;
+&lt;li&gt;If you want to export data for backup purposes or to import to another tenant, click on Actions button and then on &lt;strong&gt;Download Data&lt;/strong&gt;. It will download an .wfb file with your object exported in Jason format. You can import it via Migration Manager to another tenant.&lt;/li&gt;
+&lt;li&gt;To delete project, click on Actions button an then on &lt;strong&gt;Delete&lt;/strong&gt;. The Delete action can’t be executed when:
+
+&lt;ul&gt;
+&lt;li&gt;The desired project is already in use (have case(s))&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;To search for a project try typing in &lt;strong&gt;Search box&lt;/strong&gt;, or click on search options. Click &lt;code&gt;here&lt;/code&gt; to learn more.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-the_project_roles&#39;/&gt;
+&lt;h2&gt;
+    The Project Roles
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;Here you can see list of already created roles, or create a new one. To create a new Project Role:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Click &lt;strong&gt;New Project Role&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fill out&lt;/strong&gt; the form &lt;strong&gt;fields&lt;/strong&gt; – Name, System ID, Description, and you have checkbox Required where you can choose whether you want from your role to be selected in all projects or not&lt;/li&gt;
+&lt;li&gt;Click &lt;strong&gt;Add&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Your project role will appear in the table of listed project roles.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;div id=&#34;id-list_of_existing_project_roles&#34;/&gt;
+&lt;h2&gt;
+    List of existing Project Roles
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;You can see list of already created project roles in the Project Roles tab. Information about project roles which you can see is Name of the project role and Description, and you can execute some actions under the certain project role.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;To edit project role click on Actions button near desired project role, and then on &lt;strong&gt;Edit&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;If you want to translate name of the project, click on Actions button near desired project, and then on &lt;strong&gt;Translate&lt;/strong&gt;. Choose dictionary and write translation.&lt;/li&gt;
+&lt;li&gt;If you want to export data for backup purposes or to import to another tenant, click on Actions button and then on &lt;strong&gt;Download Data&lt;/strong&gt;. It will download an .wfb file with your object exported in Jason format. You can import it via Migration Manager to another tenant.&lt;/li&gt;
+&lt;li&gt;To delete project role, click on Actions button an then on &lt;strong&gt;Delete&lt;/strong&gt;. The Delete action can’t be executed when:
+
+&lt;ul&gt;
+&lt;li&gt;??&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;To search for a project role try typing in &lt;strong&gt;Search box&lt;/strong&gt;, or click on search options. Click &lt;code&gt;here&lt;/code&gt; to learn more.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;div id=&#34;id-project_custom_fields&#34;/&gt;
+&lt;h2&gt;
+    Project Custom Fields
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;In the &lt;em&gt;Project Custom Fields&lt;/em&gt; tab you can set permissions about custom fields. You can:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Select which users will be able to &lt;strong&gt;see&lt;/strong&gt; project custom fields. Clicking on this link opens a popup where you can select system roles and permission groups which will have ability to edit project custom fields.&lt;/li&gt;
+&lt;li&gt;Select which users will be able to &lt;strong&gt;edit&lt;/strong&gt; project custom fields. Clicking on this link opens a popup where you can select system roles and permission groups which will have ability to edit project custom fields.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Manage&lt;/strong&gt; project custom fields. This opens Form Designer where you can add all custom fields you need.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-the_default_project&#39;/&gt;
+&lt;h2&gt;
+    The Default Project
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;In the &lt;em&gt;Default Project tab&lt;/em&gt; you can choose one of your created projects to become the default project. When you create a new case, if you don&amp;rsquo;t choose project in which that case will be, it will be placed in the default project.&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-how_to_questions&#39;/&gt;
+&lt;h2&gt;
+    How to questions
+&lt;/h2&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div id=&#39;id-related_articles&#39;/&gt;
+&lt;h2&gt;
+    Related articles
+&lt;/h2&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
